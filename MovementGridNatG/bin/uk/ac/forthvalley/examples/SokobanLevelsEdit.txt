@@ -1,0 +1,110 @@
+MapSetName: Example Game!
+LevelName: Level 1
+WWWWWWWWWWWWWWWWWWWW
+W    W            DW 
+W    W             W 
+w    w      WWWWWWWW 
+w    WWWW  WWWWWWWWW 
+w            WWWWWWW 
+w    WWWWW   WWWWWWW 
+w    WWWWWWWWWWWWWWW 
+w    WWWWWWWWWWWWWWW 
+W    WWWWWWWWWWWWWWW 
+w    WWWWWWWWWWWWWWW 
+w           WWWWWWWW 
+w         WWWWWWWWWW 
+wWWWWWW   WWWWWWWWWW 
+wWWWWWW   WWWWWWWWWW 
+wWWWWWW   WWWWWWWWWW 
+wWWWWWW C WWWWWWWWWW 
+wWWWWWW   WWWWWWWWWW 
+wWWWWWW   SWWWWWWWWW 
+wwwwwwwwWwwwwwwwwwww
+
+LevelName: Level 2
+WWWWWWWWWWWWWWWWWWWW
+W    W             W 
+W C  W C           W 
+w    w      WW WWWWW 
+w    WWWWWW W C  wDW 
+w                  W 
+w C         wWDW   W 
+w           WWWWWWWW 
+w           WWWWWWWW 
+w           WWWWWWWW 
+w           WWWWWWWW 
+w      S    WWWWWWWW 
+wW          WWWWWWWW 
+wWW       WWWWWWWWWW 
+wWWW      WD    WWWW 
+wWWWW     Ww    WWWW 
+wWWWWW    WWWW WWWWW 
+wWWWWWW           DW 
+wWWWWWWWWW        WW 
+wwwwwwwwwwwwwwwwwwww
+
+LevelName: Level 3
+WWWWWWWWWWWWWWWWWWWW
+WWDWDWWW  WWWWWWWWWW
+W                  W
+W    WWWW WWWWWWWW W
+W   CC    WWWWWWWW W
+W   C            W
+WWWWW    WWWWWWWWW W
+W                  W
+W WWW W     S      W
+W W   W            W
+W    WW            W
+WW   WW            W
+WW   WW            W
+WW   WW            W
+WW   WW            W
+WW   WW            W
+WW WWWW            W
+WD         C       W
+WWW WWW          WDW
+WWWWWWWWWWWWWWWWWWWW
+
+LevelName: Level 4
+WWWWWWWWWWWWWWWWWWWW
+W  WWWD           DW
+W  WWWWW WWWWW    WW
+W      W W       C W
+WW WWWWW W       C W
+WW    wW W         W
+WW  W WW W WWWWWW WW
+WWW W WW           W
+WWW W WW W WWWWWWWWW
+W     WW WWWD      W
+W  W  WW WWW       W
+WW WWWWW WWW       W
+WW WWWWW WWWW WWWWWW
+WW       S         W
+WW  WWWW           W
+WWWWW  W  WWWWWWC WW
+WWWWW             WW
+WWWWW W         C WW
+WD      WWWWWWWWWWWW
+WWWWWWWWWWWWWWWWWWWW
+
+LevelName: Level 5
+WWWWWWWWWWWWWWWWWWWW
+WDWD             WDW
+W  WWWWW WWWWW   W W
+W            CC  W W
+W    WWWWWW        W
+WWWWWWwWDW         W
+WWWWWWWW W        WW
+WWWWWWWW           W
+WWWWWWWW W   WWWW  W
+WWWWWWWW WWW     C W
+WWWWWWWW WWW     c W
+WWWWWWWW WWW       W
+WWWWWWWW WWWW WWWWWW
+WWWWWWWW S         W
+WWWWWWW            W
+WWWWW   W  WWWWWW  W
+WWWWW     W      W W
+WWWWW  W      W   WW
+WWWWWWWWWWWWWWWWWWWW
+WWWWWWWWWWWWWWWWWWWW
